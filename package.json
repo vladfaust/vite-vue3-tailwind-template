@@ -1,0 +1,26 @@
+{
+  "name": "vite-vue3-tailwind-template",
+  "version": "1.0.0",
+  "author": "Vlad Faust <hey@vladfaust.com>",
+  "description": "Vite + Vue 3 + TailwindCSS template",
+  "license": "MIT",
+  "keywords": [
+    "vite-template",
+    "vue",
+    "vue3",
+    "tailwindcss"
+  ],
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.45"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "vite": "^4.1.0"
+  }
+}
